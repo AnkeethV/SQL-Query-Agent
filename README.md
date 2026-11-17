@@ -1,7 +1,9 @@
 
 # Project Background
 
-To create an agent which queries the database to get answers when asked in simple plain english. No SQL code is needed. Adhoc queries from the stakeholders to be answered by the agent.
+To create an agent which queries the database to get answers when asked in simple plain english. No SQL code is needed. 
+
+Adhoc queries from the stakeholders can be reported back to them much quciker than before as the analysts need to write the query but only validate the received answer and then share them.
 
 # Assumptions and Caveats
 
@@ -25,7 +27,7 @@ To create an agent which queries the database to get answers when asked in simpl
 
 - The user chats with an AI and gets answers from the database.
 - The AI handles thinking, querying and explaining.
-- Stakeholders get the insights much quicker as dependency for Adhoc requests on the analysts is reduced.
+- Adhoc requests are received much quicker as analysts only validate the answers received and then share them to the stakeholders.
 
 ![Outcome](Images/Screenshot%202026-11-16%20005723.png)
 ![Outcome](Images/Screenshot%202026-11-16%20005745.png)
